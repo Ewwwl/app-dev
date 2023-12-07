@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# H1 favorite series/movie
+# favorite anime
 Horizontal rule:
 ---
 Bullet list:
